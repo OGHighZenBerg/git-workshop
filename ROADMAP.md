@@ -27,3 +27,4 @@ This document outlines the roadmap for the GitHub workflow automation project.
     *   [ ] Implement GitHub Pages deployment.
     *   [ ] Enable GitHub Code Scanning.
     *   [ ] Enable Copilot.
+    *   [ ] Implement Google Blogger integration.
