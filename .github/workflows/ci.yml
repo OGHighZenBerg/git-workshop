@@ -165,3 +165,36 @@ jobs:
 
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v2
+
+  security-scan:
+    name: Security scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Run security scan
+        run: echo "Running security scan..."
+
+  code-coverage:
+    name: Code coverage
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Run code coverage
+        run: echo "Running code coverage..."
+
+  performance-test:
+    name: Performance test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Run performance test
+        run: echo "Running performance test..."

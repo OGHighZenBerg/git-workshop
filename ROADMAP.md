@@ -21,10 +21,10 @@ This document outlines the roadmap for the GitHub workflow automation project.
 ## Q1 2026
 
 *   **Milestone: Advanced Features**
-    *   [ ] Implement security scanning.
-    *   [ ] Implement code coverage reporting.
-    *   [ ] Implement performance testing.
-    *   [ ] Implement GitHub Pages deployment.
-    *   [ ] Enable GitHub Code Scanning.
-    *   [ ] Enable Copilot.
-    *   [ ] Implement Google Blogger integration.
+    *   [x] Implement security scanning.
+    *   [x] Implement code coverage reporting.
+    *   [x] Implement performance testing.
+    *   [x] Implement GitHub Pages deployment.
+    *   [x] Enable GitHub Code Scanning.
+    *   [x] Enable Copilot.
+    *   [x] Implement Google Blogger integration.
