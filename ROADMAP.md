@@ -14,9 +14,9 @@ This document outlines the roadmap for the GitHub workflow automation project.
 ## Q4 2025
 
 *   **Milestone: CI/CD Pipeline V2**
-    *   [ ] Implement deployment to production job.
-    *   [ ] Implement automatic release notes generation.
-    *   [ ] Implement publishing to a package registry.
+    *   [x] Implement deployment to production job.
+    *   [x] Implement automatic release notes generation.
+    *   [x] Implement publishing to a package registry.
 
 ## Q1 2026
 
