@@ -6,10 +6,10 @@ This document outlines the roadmap for the GitHub workflow automation project.
 
 *   **Milestone: CI/CD Pipeline V1**
     *   [x] Create project documentation (Blueprint, README, Roadmap).
-    *   [ ] Implement linting job.
-    *   [ ] Implement testing job.
-    *   [ ] Implement build job.
-    *   [ ] Implement deployment to staging job.
+    *   [x] Implement linting job.
+    *   [x] Implement testing job.
+    *   [x] Implement build job.
+    *   [x] Implement deployment to staging job.
 
 ## Q4 2025
 
